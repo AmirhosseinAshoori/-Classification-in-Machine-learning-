@@ -1,5 +1,5 @@
 
-# Classification Methods for Lung Cancer Detection
+# Classification Methods 
 
 This project demonstrates the implementation of various classification methods to predict the level of lung cancer in patients using different machine learning models. The models used in this project include Support Vector Machines (SVM), Decision Trees, Random Forest, and a Neural Network.
 
